@@ -1,0 +1,10 @@
+{
+  "name": "TestPuppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Enderson",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
